@@ -1,0 +1,82 @@
+{
+  "assignment-ranges": [
+    {
+      "entry-point": 1004050,
+      "size": 50
+    }
+  ],
+  "module-name": "ietf-yang-mpl-ops",
+  "module-revision": "2018-07-06",
+  "items": [
+    {
+      "namespace": "module",
+      "identifier": "ietf-yang-mpl-ops",
+      "sid": 1004050
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-ops:mpl-ops",
+      "sid": 1004051
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-ops:mpl-ops/PROACTIVE_FORWARDING",
+      "sid": 1004052
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-ops:mpl-ops/SEED_SET_ENTRY_LIFETIME",
+      "sid": 1004053
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-ops:mpl-ops/mpl-parameter",
+      "sid": 1004054
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-ops:mpl-ops/mpl-parameter/CONTROL_MESSAGE_IMAX",
+      "sid": 1004055
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-ops:mpl-ops/mpl-parameter/CONTROL_MESSAGE_IMIN",
+      "sid": 1004056
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-ops:mpl-ops/mpl-parameter/CONTROL_MESSAGE_K",
+      "sid": 1004057
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-ops:mpl-ops/mpl-parameter/CONTROL_MESSAGE_TIMER_EXPIRATIONS",
+      "sid": 1004058
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-ops:mpl-ops/mpl-parameter/DATA_MESSAGE_IMAX",
+      "sid": 1004059
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-ops:mpl-ops/mpl-parameter/DATA_MESSAGE_IMIN",
+      "sid": 1004060
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-ops:mpl-ops/mpl-parameter/DATA_MESSAGE_K",
+      "sid": 1004061
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-ops:mpl-ops/mpl-parameter/DATA_MESSAGE_TIMER_EXPIRATIONS",
+      "sid": 1004062
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-ops:mpl-ops/mpl-parameter/domainID",
+      "sid": 1004063
+    }
+  ]
+}

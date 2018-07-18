@@ -1,0 +1,67 @@
+{
+  "assignment-ranges": [
+    {
+      "entry-point": 1004000,
+      "size": 50
+    }
+  ],
+  "module-name": "ietf-yang-mpl-domain",
+  "module-revision": "2018-07-06",
+  "items": [
+    {
+      "namespace": "module",
+      "identifier": "ietf-yang-mpl-domain",
+      "sid": 1004000
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain",
+      "sid": 1004001
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/mpl-domain",
+      "sid": 1004002
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/mpl-domain/addresses",
+      "sid": 1004003
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/mpl-domain/addresses/MCaddress",
+      "sid": 1004004
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/mpl-domain/addresses/interfaces",
+      "sid": 1004005
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/mpl-domain/domains",
+      "sid": 1004006
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/mpl-domain/domains/MClist",
+      "sid": 1004007
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/mpl-domain/domains/domainID",
+      "sid": 1004008
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/mpl-single",
+      "sid": 1004009
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/mpl-single/MCaddresses",
+      "sid": 1004010
+    }
+  ]
+}

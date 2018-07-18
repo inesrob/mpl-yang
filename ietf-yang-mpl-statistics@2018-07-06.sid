@@ -1,0 +1,102 @@
+{
+  "assignment-ranges": [
+    {
+      "entry-point": 1004150,
+      "size": 50
+    }
+  ],
+  "module-name": "ietf-yang-mpl-statistics",
+  "module-revision": "2018-07-06",
+  "items": [
+    {
+      "namespace": "module",
+      "identifier": "ietf-yang-mpl-statistics",
+      "sid": 1004150
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-statistics:mpl-statistics",
+      "sid": 1004151
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-statistics:mpl-statistics/c-too-high",
+      "sid": 1004152
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-statistics:mpl-statistics/domainID",
+      "sid": 1004153
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-statistics:mpl-statistics/nr-forwarded",
+      "sid": 1004154
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-statistics:mpl-statistics/nr-of-consistent-control",
+      "sid": 1004155
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-statistics:mpl-statistics/nr-of-consistent-data",
+      "sid": 1004156
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-statistics:mpl-statistics/nr-of-copies-forwarded",
+      "sid": 1004157
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-statistics:mpl-statistics/nr-of-copies-received",
+      "sid": 1004158
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-statistics:mpl-statistics/nr-of-inconsistent-control",
+      "sid": 1004159
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-statistics:mpl-statistics/nr-of-inconsistent-data",
+      "sid": 1004160
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-statistics:mpl-statistics/nr-of-messages-forwarded",
+      "sid": 1004161
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-statistics:mpl-statistics/nr-of-messages-received",
+      "sid": 1004162
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-statistics:mpl-statistics/nr-of-missed-messages",
+      "sid": 1004163
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-statistics:mpl-statistics/nr-of-notreceived-messages",
+      "sid": 1004164
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-statistics:mpl-statistics/nr-of-refused-copies",
+      "sid": 1004165
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-statistics:mpl-statistics/seedID",
+      "sid": 1004166
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-statistics:mpl-statistics/statistics-interval",
+      "sid": 1004167
+    }
+  ]
+}

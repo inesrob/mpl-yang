@@ -1,0 +1,97 @@
+{
+  "assignment-ranges": [
+    {
+      "entry-point": 1004100,
+      "size": 50
+    }
+  ],
+  "module-name": "ietf-yang-mpl-seeds",
+  "module-revision": "2018-07-06",
+  "items": [
+    {
+      "namespace": "module",
+      "identifier": "ietf-yang-mpl-seeds",
+      "sid": 1004100
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-seeds:SE_LIFETIME",
+      "sid": 1004101
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-seeds:mpl-seeds",
+      "sid": 1004102
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-seeds:mpl-seeds/buffered-messages",
+      "sid": 1004103
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-seeds:mpl-seeds/buffered-messages/I",
+      "sid": 1004104
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-seeds:mpl-seeds/buffered-messages/c",
+      "sid": 1004105
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-seeds:mpl-seeds/buffered-messages/e",
+      "sid": 1004106
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-seeds:mpl-seeds/buffered-messages/seqno",
+      "sid": 1004107
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-seeds:mpl-seeds/buffered-messages/t",
+      "sid": 1004108
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-seeds:mpl-seeds/control-number",
+      "sid": 1004109
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-seeds:mpl-seeds/data-number",
+      "sid": 1004110
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-seeds:mpl-seeds/domainID",
+      "sid": 1004111
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-seeds:mpl-seeds/generate-seqno",
+      "sid": 1004112
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-seeds:mpl-seeds/life-time",
+      "sid": 1004113
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-seeds:mpl-seeds/local",
+      "sid": 1004114
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-seeds:mpl-seeds/min-seqno",
+      "sid": 1004115
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-yang-mpl-domain:domain/ietf-yang-mpl-seeds:mpl-seeds/seedID",
+      "sid": 1004116
+    }
+  ]
+}
